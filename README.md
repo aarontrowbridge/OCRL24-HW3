@@ -1,6 +1,6 @@
 # HW3 Spring 2024
 
-**Due Thursday 3/14 11:59 PM Eastern.**
+**Due Thursday 3/21 11:59 PM Eastern.**
 
 ## Instructions
 
